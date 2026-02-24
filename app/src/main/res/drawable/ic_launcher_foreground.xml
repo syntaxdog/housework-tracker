@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Check mark icon centered in adaptive icon safe zone (72dp centered) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44.8,65.2L34.6,55c-0.8,-0.8 -0.8,-2 0,-2.8c0.8,-0.8 2,-0.8 2.8,0l8.8,8.8l18,-18c0.8,-0.8 2,-0.8 2.8,0c0.8,0.8 0.8,2 0,2.8L47.6,65.2C46.8,66 45.6,66 44.8,65.2z" />
+    <!-- House outline -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30L34,46v22h40V46L54,30zM70,64H38V48l16,-12.8L70,48V64z"
+        android:strokeWidth="0" />
+</vector>

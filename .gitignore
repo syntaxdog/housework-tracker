@@ -1,0 +1,66 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+
+# Kotlin
+.kotlin/
+
+# Google Services (Firebase config - contains API keys)
+app/google-services.json
+
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Cloud Functions
+functions/node_modules/
+functions/lib/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Signing config
+*.jks
+*.keystore
+signing.properties
+
+# CLAUDE.md (AI assistant config - not needed in repo)
+CLAUDE.md
+
+# Plan file (internal development notes)
+plan.md
