@@ -45,6 +45,18 @@
 
 ---
 
+## 📸 스크린샷
+
+| 로그인 | 가정 설정 | 체크리스트 | 체크 완료 |
+|--------|-----------|------------|-----------|
+| ![로그인](screenshots/01_login.png) | ![가정 설정](screenshots/02_house_setup.png) | ![체크리스트](screenshots/03_checklist_empty.png) | ![체크 완료](screenshots/04_checklist_checked.png) |
+
+| 달력 | 채팅 | 설정 | 다크모드 |
+|------|------|------|----------|
+| ![달력](screenshots/05_calendar.png) | ![채팅](screenshots/06_chat.png) | ![설정](screenshots/07_settings.png) | ![다크모드](screenshots/10_dark_checklist.png) |
+
+---
+
 ## 🛠 기술 스택
 
 | 영역 | 기술 |
